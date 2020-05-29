@@ -15,4 +15,5 @@
 
 ## [color](https://maxim00000maxim.github.io/color/ "Я ссылка")
 
+## [color2.0](https://maxim00000maxim.github.io/COLOR-2.0/ "Я ссылка")
 
