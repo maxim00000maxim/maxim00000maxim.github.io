@@ -16,7 +16,7 @@
 
 ## [kall](https://maxim00000maxim.github.io/kall/ "Я ссылка")
 
-## [iol](https://maxim00000maxim.github.io/lio/ "Я секкрет")
+## [iol](https://maxim00000maxim.github.io/lio/ "А я секкрет")
 
 ## [color](https://maxim00000maxim.github.io/color/ "Я ссылка")
 
@@ -24,3 +24,4 @@
 
 ## [ROUND]( https://maxim00000maxim.github.io/ROUND/ "Я ссылка")
 
+## [cube_3D]( https://maxim00000maxim.github.io/cube_3D/ "Я ссылка")
