@@ -13,6 +13,7 @@
 
 
 ## [randomi](https://maxim00000maxim.github.io/randomi/ "Я ссылка")
+остоожно! не смотреть эпилептикам (потери не компенсируем!)
 
 ## [kall](https://maxim00000maxim.github.io/kall/ "Я ссылка")
 
@@ -25,3 +26,6 @@
 ## [ROUND]( https://maxim00000maxim.github.io/ROUND/ "Я ссылка")
 
 ## [cube_3D]( https://maxim00000maxim.github.io/cube_3D/ "Я ссылка")
+
+## [lol]( https://maxim00000maxim.github.io/lol/ "Я ссылка")
+остоожно! не смотреть эпилептикам (потери не компенсируем!)
